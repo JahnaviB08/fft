@@ -1,4 +1,4 @@
-parameter W = 32;
+parameter W = 16;
 
 `include "butterfly.sv"
 `include "computeMatrix.sv"
